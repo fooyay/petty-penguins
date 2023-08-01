@@ -4,6 +4,7 @@
 *.wasm
 *.abi
 *.bin
+/artifacts
 
 # Ignore temporary files
 *.tmp
